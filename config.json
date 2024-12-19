@@ -1,0 +1,13 @@
+{
+  "daemon-address": "community-pools.mysrv.cloud:10300",
+  "wallet": "deroi1qyzlxxgq2weyqlxg5u4tkng2lf5rktwanqhse2hwm577ps22zv2x2q9pvfz92xmpmm9rwuex7d8sw6cv43",
+  "threads": -1,
+  "lock-threads": false,
+  "period": 10,
+  "log-console-line": -1,
+  "never-stop": false,
+  "restart-on-zero-hashrate": true,
+  "old-console": false,
+  "no-colors": false,
+  "no-cr": false
+}
